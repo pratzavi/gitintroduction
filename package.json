@@ -1,0 +1,19 @@
+{
+  "name": "git-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratzavi/gitintroduction.git"
+  },
+  "author": "Avinash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratzavi/gitintroduction/issues"
+  },
+  "homepage": "https://github.com/pratzavi/gitintroduction#readme"
+}
