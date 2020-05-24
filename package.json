@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pratzavi/gitintroduction/issues"
   },
-  "homepage": "https://github.com/pratzavi/gitintroduction#readme"
+  "homepage": "https://github.com/pratzavi/gitintroduction#readme",
+  "dependencies": {
+    "helloworld": "0.0.0"
+  }
 }
